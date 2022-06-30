@@ -1,3 +1,7 @@
-# Handout for the talk "Problematizing selection mapping from an animal science perspective" at ASAS 2022
+# Handout for the talk "Problematizing selection mapping from an animal science perspective" at ASAS-CSAS 2022
 
-tbd
+This handout accompanies a talk given at the ASAS-CSAS conference in 2022:
+
+[slides (pdf)](slides.pdf) 
+
+[handout (pdf)](handout.pdf)
