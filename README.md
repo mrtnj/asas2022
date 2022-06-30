@@ -2,6 +2,6 @@
 
 This handout accompanies a talk given at the ASAS-CSAS conference in 2022:
 
-[slides (pdf)](slides.pdf) 
+[slides (pdf)](28_Johnsson_301.pdf) 
 
 [handout (pdf)](handout.pdf)
